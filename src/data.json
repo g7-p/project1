@@ -1,0 +1,89 @@
+{
+    "profiles":[
+        {
+         "basics":{
+             "name":"puja chowdhary",
+             "email":"spujalahari@gmail.com",
+             "mobile":"+91 987654321"
+         },
+         "education":[
+             {
+                 "degree":"S.S.C",
+                 "percentage":"90",
+                 "institute":"st.peters"
+             },
+             {
+                "degree":"Intermediate-(M.P.C)",
+                "percentage":"93",
+                "institute":"sashi junior college"
+            },
+            {
+                "degree":"b.tech -(C.S.E)",
+                "percentage":"96",
+                "institute":"VVIT"
+            }
+         ],
+         "skills":[
+             {
+                 "type":"Programming Languages",
+                  "Values":["c","c++","java","python","Ruby"]
+             },
+             {
+                "type":"Web Technologies",
+                "Values":["HTML","css","javascript"]
+             },
+             {
+                "type":"framework Libraries",
+                 "Values":["Reactjs"]
+            },
+            {
+                "type":"Programming Languages",
+                "Values":["c","c++","java","python","Ruby"]
+            }
+         ]
+        },
+        {
+            "basics":{
+                "name":"Sindhu chowdhary",
+                "email":"simely@gmail.com",
+                "mobile":"+91 987654321"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"96",
+                    "institute":"Montessori E.M.School"
+                },
+                {
+                   "degree":"Intermediate-(M.P.C)",
+                   "percentage":"97",
+                   "institute":"sashi junior college"
+               },
+               {
+                   "degree":"b.tech -(I.T)",
+                   "percentage":"96.5",
+                   "institute":"VVIT"
+               }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                     "Values":["c","c++","java","python","Ruby"]
+                },
+                {
+                   "type":"Web Technologies",
+                   "Values":["HTML","css","javascript"]
+                },
+                {
+                   "type":"framework Libraries",
+                    "Values":["Reactjs"]
+               },
+               {
+                   "type":"Programming Languages",
+                   "Values":["c","c++","java","python","Ruby"]
+               }
+            ]
+           }
+        
+    ]
+}
